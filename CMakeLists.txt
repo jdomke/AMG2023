@@ -1,3 +1,5 @@
+variable_watch(MPI_C_LIB_NAMES)
+
 cmake_minimum_required(VERSION 3.21)
 
 project (amg2023 C)
